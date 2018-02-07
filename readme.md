@@ -17,6 +17,7 @@ Changelog:
 Feb 7, 2018: Uploaded most up-to-date version, 0.9.1, to GitHub
 
 Acknowledgments:
+-
 Several bugs have been squashed thanks to reports by the following people:
 * Dylan Gagler
 * James Leong
