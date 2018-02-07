@@ -3,7 +3,7 @@ About:
 
 **MasterInput.csv** - the input file containing aqueous geochemical data in the style of GEOPIG's master spreadsheet. Customize this with your own samples of interest.
 
-**ChargeBalance** - takes tabular water chemistry measurements, runs them through geochemical software called EQ3/6, then datamines charge balance values from output files. This is a collaborative effort between Arizona State University graduate students Grayson Boyer and Tucker Ely, and University of Washington Professor Mark Ghiorso as a part of the NSF-funded ENKI project to produce freely available geochemical tools.
+**ChargeBalance** - takes tabular water chemistry measurements, runs them through geochemical software called EQ3/6, then datamines charge balance values from output files. This is a collaborative effort between Arizona State University graduate students Grayson Boyer and Tucker Ely, and University of Washington Professor Mark Ghiorso as a part of the NSF-funded ENKI project to produce freely available geochemical tools. More specific documentation can be found inside of the ChargeBalance notebook itself about how it works.
 
 **MineralMine** - obtain mineral solubility information (affinities or logQ/K) from your samples. Requires running ChargeBalance first.
 
