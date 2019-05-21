@@ -1,0 +1,8 @@
+"sample","Name","CO_AQ/HCO3-","DEFAULT","H2_AQ/H2O","HS-/SO4-2","METHANE_AQ/HCO3-","NH4+/NO3-","NO2-/NO3-","O2_AQ/H2O"
+"Bison.Pool.3o","Bison Pool",NA,0.631,NA,-0.328,NA,0.631,NA,0.631
+"Spray.Geyser.Source.3o","Spray Geyser Source",NA,0.594,NA,-0.359,NA,0.151,NA,0.594
+"Crater.Hills.Geyser.3o","Crater Hills Geyser",NA,0.873,NA,0.058,NA,0.57,NA,NA
+"Ambergris.3o","Ambergris",-0.665,0.605,-0.405,-0.383,-0.402,0.147,NA,0.605
+"MLS.Source.3o","MLS Source",NA,0.611,NA,-0.341,NA,NA,0.32,0.611
+"Gas.Crack.3o","Gas Crack",NA,0.498,-0.686,-0.548,-0.601,-0.002,NA,0.498
+"Snail.3o","Snail",NA,0.511,-0.672,-0.523,-0.584,0.033,NA,0.511
