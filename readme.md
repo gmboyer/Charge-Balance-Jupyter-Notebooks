@@ -14,7 +14,7 @@ About:
 
 Changelog:
 -
-Feb 7, 2018: Uploaded most up-to-date version, 0.9.1, to GitHub
+May 21, 2019: Uploaded most up-to-date version to GitHub
 
 Acknowledgments:
 -
